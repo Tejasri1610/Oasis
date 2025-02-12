@@ -1,1 +1,5 @@
-# Oasis
+Retail Sales Data - Exploratory Data Analysis (EDA)
+
+Understanding both sales trends and customer behavior will help a business grow and make informed decisions. This project entails the analysis of retail sales data to find patterns within revenue to determine customer preferences and seasonal trends. With this information, businesses can envisage their top-selling products, peak sales, and the factors influencing revenue so that they may optimize strategies in favor of better performance.
+
+The data analysis will be done using Python, with Pandas and NumPy for data manipulation plus Matplotlib and Seaborn visualization libraries to present the findings through clean charts and graphs. These insights show businesses/e-commerce which products drive sales, when does demand fluctuate, and how consumer purchasing behavior affects overall performance in a business. The end goal is to formulate suggestions that maximally improve sales strategies, inventory optimization, and more engagement rates with end clients. 
